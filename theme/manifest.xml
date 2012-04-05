@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<theme>
+	<id>com.filemaker.theme.CHANGE_THIS</id>
+	<name>THEME_NAME_HERE</name>
+	<group>Custom</group>
+	<version>1</version>
+	<cssfile>CHANGE_THIS.css</cssfile>
+	<preview>images/PREVIEW_IMAGE.png</preview>
+	<metadata>
+		<layoutbuilder>
+			<kBaseFontSize>12</kBaseFontSize>
+			<kReportBreakFieldIndent>16</kReportBreakFieldIndent>
+			<kBackgroundPaddingTop>16</kBackgroundPaddingTop>
+			<kBackgroundPaddingBottom>16</kBackgroundPaddingBottom>
+			<kBackgroundPaddingLeft>16</kBackgroundPaddingLeft>
+			<kBackgroundPaddingRight>16</kBackgroundPaddingRight>
+			<kFirstPartPaddingTop>12</kFirstPartPaddingTop>
+			<kLastPartPaddingBottom>16</kLastPartPaddingBottom>
+			<kPartPaddingLeft>16</kPartPaddingLeft>
+			<kPartPaddingRight>16</kPartPaddingRight>
+			<kLeadingPartPaddingTop>7</kLeadingPartPaddingTop>
+			<kLeadingPartPaddingBottom>6</kLeadingPartPaddingBottom>
+			<kTrailingPartPaddingTop>6</kTrailingPartPaddingTop>
+			<kTrailingPartPaddingBottom>7</kTrailingPartPaddingBottom>
+			<kVerticalFieldSpacing>4</kVerticalFieldSpacing>
+			<kTitleHeaderMinSize>14</kTitleHeaderMinSize>
+			<kHeaderMinSize>30</kHeaderMinSize>
+			<kBodyMinSize>14</kBodyMinSize>
+			<kFooterMinSize>20</kFooterMinSize>
+			<kTitleFooterMinSize>14</kTitleFooterMinSize>
+			<kSummaryPartMinSize>4</kSummaryPartMinSize>
+		</layoutbuilder>
+		<charting>
+			<colorScheme>FileMaker Colors</colorScheme>
+		</charting>
+	</metadata>
+</theme>
